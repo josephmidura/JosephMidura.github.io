@@ -1,2 +1,2 @@
 # JosephMidura.github.io
-GitHub website
+Testing GitHub as a place to host a personal website
